@@ -14,5 +14,6 @@
     "cors": "^2.8.5",
     "bcrypt": "^5.1.0",
     "express": "^5.1.0"
+    "jsonwebtoken": "^9.0.0"
   }
 }
